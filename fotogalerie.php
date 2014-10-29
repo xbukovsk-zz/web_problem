@@ -1,9 +1,6 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html;" charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="css/index.css">
-	<title>FF FI</title>
+<?php require_once __DIR__ . '/_setup.php'; ?>
+<?php require_once __DIR__ . '/_header.php'; ?>
+<body>
 
 	<div class="headdy">
 		<a href="index.php"><img src="images/final_7.jpg"></a>
