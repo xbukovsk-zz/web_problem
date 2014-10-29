@@ -1,5 +1,5 @@
-<?php require_once __DIR__ . '/_setup.php'; ?>
-<?php require_once __DIR__ . '/_header.php'; ?>
+<?php require_once dirname(__FILE__) . '/_setup.php'; ?>
+<?php require_once dirname(__FILE__) . '/_header.php'; ?>
 <body>
 
 	<div class="headdy">
@@ -7,7 +7,7 @@
 	</div>
 
 	<div class="main_menu">
-		<?php include __DIR__ . '/_menu.php' ?>
+		<?php include dirname(__FILE__) . '/_menu.php' ?>
 	</div>
 
 	<div class="main_content">
@@ -40,4 +40,4 @@
 	</div>
 
 </body>
-<?php require_once __DIR__ . '/_footer.php'; ?>
+<?php require_once dirname(__FILE__) . '/_footer.php'; ?>
