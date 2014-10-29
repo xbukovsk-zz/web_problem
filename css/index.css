@@ -1,0 +1,109 @@
+.headdy img {
+    text-align: center;
+    margin: -0.5em -0.5em 0em -1.5em;
+    width: 1415px;
+    height: 360px;
+/*
+    width: 101.5%;
+    height: 50%;
+*/
+}
+
+.headdy, html {
+    background-color: #0c0806 ;
+}
+
+.main_menu {
+    padding-top: 2em;
+    background-color: #0C0806  ;
+    float:left;
+    margin-left: -1em;
+    width: 320px;
+/*    width: 280px;*/
+    height: 720px;
+/*
+    padding-left: 2em;
+*/
+/*
+    height: 100%;
+    width: 20%;
+*/
+    /*    width: 24.5%; */
+}
+
+.main_content {
+/*    background: #C0C0C0;*/
+    margin-left: -2em;
+    margin-top: -3.6em;
+    width: 1400px;
+    height: 730px;
+    background-color: #FFFFFF;
+    /*    height: 85%;
+        width: 98%;*/
+
+}
+
+.main_content_text {
+    text-align: left;
+    padding-top: 1em;
+    padding-left: 19em;
+    padding-right: 2em;
+    font-size: 20px;
+    text-align: justify;
+/*    text-justify: distribute-all-lines;*/
+    hyphens: auto;
+}
+
+.main_content_text a {
+    text-decoration: none;
+/*    color: #8800AA;*/
+    color: #0066AA;
+}
+
+.main_content_text a:hover {
+/*    color: #660033;   */
+    color: #99004C;
+    text-decoration: underline;
+}
+
+.main_content_text .i_thing {
+/*    color: #99004C; */
+    color: #AA00AA;
+}
+
+.main_content_text a img, a img {
+    border: solid #000000 2px;   
+}
+
+h2 {
+    text-align: top left;
+    padding-left: 5.4em;
+    padding-top: 0.1em;
+    margin-bottom: -0.2em;
+    font-size: 70px;
+    font-family: "Courier New", Courier, monospace;
+/*    color: #696969;*/
+/*
+    color: 6F4242;
+*/
+    color: #DC0000;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h3 {
+    text-align: left;
+    padding-left: 10.7em;
+    padding-top: 0.5em;
+    margin-top: 0;
+    margin-bottom: -0.2em;
+    font-size: 35px;
+    font-family: "Courier New", Courier, monospace;
+/*    color: #696969;*/
+/*
+    color: 6F4242;
+*/
+    color: #DC0000;
+    text-shadow: -0.2px 0 black, 0 0.2px black, 0.2px 0 black, 0 -0.2px black;
+
+    
+}
