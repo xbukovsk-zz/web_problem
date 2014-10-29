@@ -14,7 +14,7 @@
   <body>    
 <!--     ZAKLADNI OBSAH      -->
       <div class="main_menu">
-              <?php include 'menu.php'?>
+              <?php include __DIR__ . '/menu.php'?>
       </div>
       
       

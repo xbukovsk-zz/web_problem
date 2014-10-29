@@ -15,7 +15,7 @@
   <body>    
 <!--     ZAKLADNI OBSAH      -->
       <div class="main_menu">
-              <?php include 'menu.php'?>
+              <?php include __DIR__ . '/menu.php'?>
       </div>
       <div class="main_content">
           <h2>Úvod</h2>
