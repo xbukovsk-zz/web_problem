@@ -16,4 +16,3 @@
 		<a href="kontakt.php">Kontakt</a>
 	</li>
 </ul>
-
